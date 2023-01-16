@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200;300;400&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+
+.container {
+
+    overflow: hidden;
+  background-image: url("https://images.unsplash.com/photo-1502239608882-93b729c6af43?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+
+    background-color: black;
+    /* background-size: cover; */
+    height: 100vh;
+    width: 100vw;
+    background-size:50vw 50vw;
+}
+
+#board {
+    width: 450px;
+    height: 450px;
+    margin: auto;
+    margin-top: 50px;
+    /* margin-right: 50px; */
+
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+    background-color:black ;
+    display: grid;
+    grid-template-columns: repeat(25, 1fr);
+    grid-template-rows: repeat(25, 1fr);
+    border-radius: 10px;
+}
+
+#score {
+    position: absolute;
+    font-family: 'Gemunu Libre', sans-serif;
+    letter-spacing: 6px;
+    top: 70px;
+    right: 150px;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+.snakeimg{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+.snakeimg2{
+    position: absolute;
+    top: 200px;
+    /* right:-300px; */
+    left: 1000px;
+}
+#name{
+    position: absolute;
+    font-family: 'Gemunu Libre', sans-serif;
+    letter-spacing: 6px;
+    bottom: 15px;
+    right: 20px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+#Highscore {
+    position: absolute;
+    font-family: 'Gemunu Libre', sans-serif;
+    letter-spacing: 6px;
+    top: 110px;
+    left: 80px;
+    /* padding-right: 40px; */
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+
+.head {
+    background-color: red;
+    border-radius: 5px;
+    transform: scale(1.1);
+}
+
+.food {
+    background-color: orange;
+    /* background:linear-gradient(white , teal); */
+    border-radius: 5px;
+}
+
+.snake {
+    background-color: white;
+    border: .25vmin solid white;
+    border-radius: 12px;
+}
