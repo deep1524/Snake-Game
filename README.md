@@ -19,8 +19,9 @@ Snake game netlify link : https://prismatic-florentine-542a05.netlify.app/
 
 ## The User-Interface
 
-![App Screenshot](https://i.ibb.co/M1DNz5P/Screenshot-2022-10-10-182318.png)
 
+
+![Screenshot (1209)](https://user-images.githubusercontent.com/105913793/212718925-6f4615ec-31be-43c8-8e97-c523bd7591b4.png)
 
 <br />
 
@@ -37,10 +38,8 @@ Snake game netlify link : https://prismatic-florentine-542a05.netlify.app/
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Akshay_Rajput-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-rajput-422794220/)
-[![Github](https://img.shields.io/badge/Akshay_Rajput-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/actuallyakshay)
 
-© 2022 Akshay Rajput
+
 
 
 
