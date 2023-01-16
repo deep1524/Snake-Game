@@ -12,7 +12,7 @@ A Nostalgic game named as Snake game in which you can play with 4 buttons (up,do
 <br />
 
 ## 🔗 Live Deployed URL
-Snake game netlify link : https://prismatic-florentine-542a05.netlify.app/
+Snake game netlify link :https://charming-pothos-a5c994.netlify.app
 
 
 <br />
